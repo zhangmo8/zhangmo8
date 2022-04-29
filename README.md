@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code>![visitors](https://visitor-badge.glitch.me/badge?page_id=wegi8)</code>
 
+---
+
 - 🔭  I’m currently working on a sad place
 - 🌱  I’m currently learning make a good component library
 - 👯  I’m looking to collaborate on varlet
 - 🤔  I’m looking for help with varlet
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wegi8)
 
 <img src="https://github-readme-stats.vercel.app/api?username=wegi8&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats"/>
