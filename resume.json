@@ -77,51 +77,45 @@
 	],
 	"skillList": [
 		{
-			"skill_name": "HTML 和 CSS",
-			"skill_desc": "熟练掌握HTML5和CSS3特性",
-			"skill_level": 80,
-			"dataIndex": 0
-		},
-		{
 			"skill_name": "TypeScript / JavaScript",
 			"skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
 			"skill_level": 80,
 			"dataIndex": 1
 		},
 		{
-			"skill_name": "数据可视化",
-			"skill_desc": "丰富的可视化工程实践以及开源经验",
-			"skill_level": 80,
-			"dataIndex": 2
-		},
-		{
-			"skill_name": "React / Vue / 前端工程化",
+			"skill_name": "React / Vue / Vue3",
 			"skill_desc": "前端项目经验以及组件库开发经验",
 			"skill_level": 85,
 			"dataIndex": 3
 		},
 		{
-			"skill_name": "UNIAPP / Taro / Remax / Rax",
+			"skill_name": "UNIAPP",
 			"skill_level": 85,
 			"skill_desc": "各类小程序框架",
-			"dataIndex": 4
+			"dataIndex": 2
 		},
 		{
 			"skill_name": "FlutterApp开发",
-			"skill_level": 60,
+			"skill_level": 70,
 			"skill_desc": "Flutter混合APP开发",
-			"dataIndex": 5
+			"dataIndex": 3
 		}
 	],
 	"projectList": [
 		{
-			"project_name": "医广运维项目",
+			"project_name": "Varlet组件库",
 			"project_role": "前端开发者",
-			"project_time": "2020.05 - 至今",
-			"project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。\n提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-			"project_content": "1. 产品体验精雕细琢的打磨 2. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率",
-			"dataIndex": 0,
-			"role": "前端开发工程师"
+			"project_desc": "Varlet 是一个基于 Vue3 开发的 Material 风格移动端组件库，全面拥抱 Vue3 生态，由社区的小伙伴开发和维护。",
+			"project_content": "Varlet作为一个成熟的组件库，由Cli，ui库， MD解析，运行环境(playground)等模块组成，本人主要负责varlet/cli的维护和迭代。"
+		},
+		{
+			"project_name": "商城小程序Saas平台",
+			"project_role": "前端开发者",
+			"project_time": "2018.07 - 2019.04 / 2020.07",
+			"project_desc": "面向小商户的商城小程序Saas平台。\n 商户们可以自行通过平台购买不同的商城小程序，并可以直接通过平台后台管理商品，种类，价格等，拓宽销售渠道。（类似于有赞）",
+			"project_content": "平台工具核心部分是商品规格，也就是通过商品属性、属性值配置，形成一个商品多种不同规格的方式，平台提供了多种模版，通过选择方式进行选择编排，最终形成小程序进行发布。\n1. 产品体验优化，采用uniapp，可以进行多平台的小程序发布，h5发布，并且h5端可以自行选择主题色彩 \n2. 主导可视化能力建设：通过h5端的预览，客户可以方便的在pc后台里看到效果",
+			"role": "前端开发工程师",
+			"dataIndex": 1
 		},
 		{
 			"project_name": "圭土云app",
@@ -130,14 +124,6 @@
 			"project_desc": "该app实现用户在手机上可参与项目管理，任务实施、分配，流程管理，文件资源调度",
 			"project_content": "可视化协同项目管理。负责 协同部分: 文件共享，预览文件，权限分配，拖拽表单等研发工作。",
 			"role": "前端开发工程师"
-		},
-		{
-			"project_name": "小程序商城（模版）",
-			"project_role": "前端开发者",
-			"project_time": "2018.07 - 2019.04 / 2020.07",
-			"project_desc": "面向小商户的小程序商场平台。\n 商户们可以自行通过平台购买不同模版的小程序商场，并可以直接通过平台后台管理商品，种类，价格等，拓宽销售渠道。",
-			"project_content": "平台工具核心部分是商品规格，也就是通过商品属性、属性值配置，形成一个商品多种不同规格的方式，平台提供了多种模版，通过选择方式进行选择编排，最终形成小程序进行发布。\n1. 产品体验优化，采用uniapp，可以进行多平台的小程序发布，h5发布，并且h5端可以自行选择主题色彩 \n2. 主导可视化能力建设：通过h5端的预览，客户可以方便的在pc后台里看到效果",
-			"role": "前端开发工程师"
 		}
 	],
 	"workList": [],
@@ -145,7 +131,7 @@
 		"aboutme_desc": "😈 能力项：沟通协调能力、执行力\n努力型前端工程师，三年前端开发经验\n参与开源项目Varlet组件库的开发\nVarlet核心开发团队成员"
 	},
 	"theme": {
-		"color": "rgba(53, 86, 121, 1)",
+		"color": "#2f5785",
 		"tagColor": "#8bc34a"
 	}
 }
