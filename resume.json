@@ -106,7 +106,7 @@
 			"project_name": "Varlet组件库",
 			"project_role": "前端开发者",
 			"project_desc": "Varlet 是一个基于 Vue3 开发的 Material 风格移动端组件库，全面拥抱 Vue3 生态，由社区的小伙伴开发和维护。",
-			"project_content": "Varlet作为一个成熟的组件库，由Cli，ui库， MD解析，运行环境(playground)等模块组成，本人主要负责varlet/cli的维护和迭代。"
+			"project_content": "Varlet是由Cli，ui库， MD解析，运行环境(playground)等模块组成，本人主要负责varlet以及varlet-vue2的cli脚手架的维护和迭代、组件库站点的架构和维护。"
 		},
 		{
 			"project_name": "商城小程序Saas平台",
