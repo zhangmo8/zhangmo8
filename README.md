@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on varlet-lowcode
 - 🌱 I’m currently learning how to be a good front-end engineer
-- 📫 How to reach me: email: 18272190626@163.com
+- 📫 How to reach me: email: wegi866@gmail.com
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=wegi8&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats"/>
