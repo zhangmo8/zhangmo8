@@ -26,6 +26,5 @@
 
 ---
 
-- 🔭 I’m currently working on varlet-lowcode
 - 🌱 I’m currently learning how to be a good front-end engineer
 - 📫 How to reach me: email: wegi866@gmail.com
